@@ -61,11 +61,28 @@ nav ul li {
     background-repeat: no-repeat;
 
 }
-#next-cont{
+.center-font{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     margin-top: 100px;
-
 }
-
+.front-cont{
+padding-left: 110px;
+padding-top: 70px;
+}
+.front{
+    display: flex;
+}
+.cont-pic{
+    padding-left: 150px;
+    image size: 274px 240px;
+}
+.youtube{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
 
 
 
