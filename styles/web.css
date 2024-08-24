@@ -58,7 +58,7 @@ nav ul li {
     align-items: center;
     text-align: center;}
 #first-text{
-    font-size: 47px;
+    font-size: 48px;
     font-weight: 800;
     }
 
@@ -84,10 +84,16 @@ nav ul li {
     text-align: center;
     margin-top: 100px;
 }
+
 .secnd-text{
     
-    font-weight: 900;
+    font-weight: 800;
+    font-size: 32px;
+    color: #0D1321;
+    padding-top: 50px;
 }
+
+
 .front-cont{
 padding-left: 110px;
 padding-top: 70px;
@@ -172,8 +178,13 @@ border-radius: 16px;
     width: auto;
     height: auto;
     border-radius: 16px;
-    padding: auto;
-    margin: 24px;
+    
+}
+#three{
+   padding-bottom: 48px;
+}
+#two{
+    padding-bottom: 48px;
 }
 .target-image{
     height: 95px;
@@ -199,6 +210,9 @@ border-radius: 16px;
     align-items: center;
     text-align: center;
     gap: 10px;
+}
+.target-full{
+    padding-bottom: 48px;
 }
 .last-cont {
     display: flex;
@@ -230,9 +244,11 @@ border-radius: 16px;
     border-radius: 8px;
     font-size: 16px;
     word-spacing: 3px;
+    padding-left: 20px;
    
 }
 .submit-btn{
+    background-color: white;
     width: 120px;
     height: 57px;
     border: none;
