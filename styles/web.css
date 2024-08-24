@@ -145,25 +145,28 @@ font-size: 16px;
 font-weight: 800;
 }
 .skill-1{
-    background-color: rgba(170, 170, 170, 0.05);
-    padding: 40px 0px 40px 0px;
-height: 299px;
+    background-color: rgb(255, 76, 30,.05);
+    padding: 40px 0px 60px 0px;
+height: 200px;
 width: 364px;
 border-radius: 16px;
+padding-left: 30px;
 }
 .skill-2{
     background-color: rgba(0, 76, 232, 0.05);
-    padding: 40px 0px 40px 0px;
-    height: 299px;
+    padding: 40px 0px 60px 0px;
+    height: 200px;
     width: 364px;
 border-radius: 16px;
+padding-left: 30px;
 }
 .skill-3{
     background-color:rgb(255, 223, 0, .05);
-    padding: 40px 0px 40px 0px;
-    height: 299px;
+    padding: 40px 0px 60px 0px;
+    height: 200px;
     width: 364px;
 border-radius: 16px;
+padding-left: 30px;
 }
 .lrn-btn{
     color: black;
@@ -178,7 +181,8 @@ border-radius: 16px;
     width: auto;
     height: auto;
     border-radius: 16px;
-    
+    margin: 20px;
+    padding-top: 10px;
 }
 #three{
    padding-bottom: 48px;
